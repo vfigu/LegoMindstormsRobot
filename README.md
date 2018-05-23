@@ -6,12 +6,23 @@
 
 ### Overview
 <a href="https://drive.google.com/uc?export=view&id=1BBUpx8543hvmH45qdr9lIxrPgqy7GuEB"><img src="https://drive.google.com/uc?export=view&id=1BBUpx8543hvmH45qdr9lIxrPgqy7GuEB" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+•	3 large motors (front wheels and hammer)   
+•	1 medium motor (spinner)  
+•	1 ultrasonic sensor  
+•	1 touch sensor  
+•	1 light sensor  
 ### Side View
 <a href="https://drive.google.com/uc?export=view&id=1TSRA6C4iZs9-FamxbkrLJectXOBJaveT"><img src="https://drive.google.com/uc?export=view&id=1TSRA6C4iZs9-FamxbkrLJectXOBJaveT" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 <a href="https://drive.google.com/uc?export=view&id=1ubJ6HGFznmtLjS05komUvfgZUOVCXjU7"><img src="https://drive.google.com/uc?export=view&id=1ubJ6HGFznmtLjS05komUvfgZUOVCXjU7" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+•	Front wheel drive using two synchronized large motors.  
 ### Front View
 <a href="https://drive.google.com/uc?export=view&id=1TD6K0mefiUQCZlA7sJ2KBAcj7ceWJvp5"><img src="https://drive.google.com/uc?export=view&id=1TD6K0mefiUQCZlA7sJ2KBAcj7ceWJvp5" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+•	Defense hammer using a large motor.  
+•	Ultrasonic sensor placed horizontally at the center.  
+•	Touch sensor placed at the bottom and extended to create a bumper.  
 ### Back View
 <a href="https://drive.google.com/uc?export=view&id=1ql8xRwMJBiKa3Ri7_kah3tIXH6DxZIlM"><img src="https://drive.google.com/uc?export=view&id=1ql8xRwMJBiKa3Ri7_kah3tIXH6DxZIlM" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+•	Defense spinner using a medium sized motor.  
+•	Light sensor at the bottom for detecting surfaces with no reflection.
 ### Top View
 <a href="https://drive.google.com/uc?export=view&id=1pdKC8whpXq4mb9HWjqIg6MMYrtDkTh-H"><img src="https://drive.google.com/uc?export=view&id=1pdKC8whpXq4mb9HWjqIg6MMYrtDkTh-H" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
